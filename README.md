@@ -2,7 +2,7 @@
 
 ## Video de demostración
 
-[![Alt text](https://img.youtube.com/vi/KdcURNLCXbM/0.jpg)]([https://www.youtube.com/watch?v=KdcURNLCXbM](https://youtu.be/hCZnLNM2RWc))
+[![Alt text](https://img.youtube.com/vi/hCZnLNM2RWc/0.jpg)](https://www.youtube.com/watch?v=hCZnLNM2RWc)
 
 ## Motivación
 
