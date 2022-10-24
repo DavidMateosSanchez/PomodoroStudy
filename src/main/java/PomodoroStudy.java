@@ -19,7 +19,7 @@ import sun.audio.AudioStream;
 
 /**
  *
- * @author David y Laura
+ * @author David Mateos Sanchez
  */
 public class PomodoroStudy extends javax.swing.JFrame {
     
